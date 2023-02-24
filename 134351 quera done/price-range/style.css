@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
 	background-color: whitesmoke;
 	font-family: "Courier New", Courier, monospace;
@@ -14,3 +15,21 @@ body {
     height: 5px;
 	width: 500px;
 }
+=======
+body {
+	background-color: whitesmoke;
+	font-family: "Courier New", Courier, monospace;
+	text-align: center;
+}
+
+.container {
+	margin: auto;
+	width: max-content;
+}
+
+.price {
+	background-image: linear-gradient(to right,rgb(255,0,0),rgb(0,255,0));
+    height: 5px;
+	width: 500px;
+}
+>>>>>>> 9b92165495e12e6e51fcb6dbd9e7ee8b0d9e4712
