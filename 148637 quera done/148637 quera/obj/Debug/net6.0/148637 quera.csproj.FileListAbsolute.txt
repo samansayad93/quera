@@ -1,0 +1,30 @@
+/Users/saman/Desktop/Quera/148637 quera/148637 quera/bin/Debug/net6.0/148637 quera
+/Users/saman/Desktop/Quera/148637 quera/148637 quera/bin/Debug/net6.0/148637 quera.deps.json
+/Users/saman/Desktop/Quera/148637 quera/148637 quera/bin/Debug/net6.0/148637 quera.runtimeconfig.json
+/Users/saman/Desktop/Quera/148637 quera/148637 quera/bin/Debug/net6.0/148637 quera.dll
+/Users/saman/Desktop/Quera/148637 quera/148637 quera/bin/Debug/net6.0/148637 quera.pdb
+/Users/saman/Desktop/Quera/148637 quera/148637 quera/obj/Debug/net6.0/148637 quera.csproj.AssemblyReference.cache
+/Users/saman/Desktop/Quera/148637 quera/148637 quera/obj/Debug/net6.0/148637 quera.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saman/Desktop/Quera/148637 quera/148637 quera/obj/Debug/net6.0/148637 quera.AssemblyInfoInputs.cache
+/Users/saman/Desktop/Quera/148637 quera/148637 quera/obj/Debug/net6.0/148637 quera.AssemblyInfo.cs
+/Users/saman/Desktop/Quera/148637 quera/148637 quera/obj/Debug/net6.0/148637 quera.csproj.CoreCompileInputs.cache
+/Users/saman/Desktop/Quera/148637 quera/148637 quera/obj/Debug/net6.0/148637 quera.dll
+/Users/saman/Desktop/Quera/148637 quera/148637 quera/obj/Debug/net6.0/refint/148637 quera.dll
+/Users/saman/Desktop/Quera/148637 quera/148637 quera/obj/Debug/net6.0/148637 quera.pdb
+/Users/saman/Desktop/Quera/148637 quera/148637 quera/obj/Debug/net6.0/148637 quera.genruntimeconfig.cache
+/Users/saman/Desktop/Quera/148637 quera/148637 quera/obj/Debug/net6.0/ref/148637 quera.dll
+/Users/saman/Desktop/Quera/148637 quera done/148637 quera/bin/Debug/net6.0/148637 quera
+/Users/saman/Desktop/Quera/148637 quera done/148637 quera/bin/Debug/net6.0/148637 quera.deps.json
+/Users/saman/Desktop/Quera/148637 quera done/148637 quera/bin/Debug/net6.0/148637 quera.runtimeconfig.json
+/Users/saman/Desktop/Quera/148637 quera done/148637 quera/bin/Debug/net6.0/148637 quera.dll
+/Users/saman/Desktop/Quera/148637 quera done/148637 quera/bin/Debug/net6.0/148637 quera.pdb
+/Users/saman/Desktop/Quera/148637 quera done/148637 quera/obj/Debug/net6.0/148637 quera.csproj.AssemblyReference.cache
+/Users/saman/Desktop/Quera/148637 quera done/148637 quera/obj/Debug/net6.0/148637 quera.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saman/Desktop/Quera/148637 quera done/148637 quera/obj/Debug/net6.0/148637 quera.AssemblyInfoInputs.cache
+/Users/saman/Desktop/Quera/148637 quera done/148637 quera/obj/Debug/net6.0/148637 quera.AssemblyInfo.cs
+/Users/saman/Desktop/Quera/148637 quera done/148637 quera/obj/Debug/net6.0/148637 quera.csproj.CoreCompileInputs.cache
+/Users/saman/Desktop/Quera/148637 quera done/148637 quera/obj/Debug/net6.0/148637 quera.dll
+/Users/saman/Desktop/Quera/148637 quera done/148637 quera/obj/Debug/net6.0/refint/148637 quera.dll
+/Users/saman/Desktop/Quera/148637 quera done/148637 quera/obj/Debug/net6.0/148637 quera.pdb
+/Users/saman/Desktop/Quera/148637 quera done/148637 quera/obj/Debug/net6.0/148637 quera.genruntimeconfig.cache
+/Users/saman/Desktop/Quera/148637 quera done/148637 quera/obj/Debug/net6.0/ref/148637 quera.dll
