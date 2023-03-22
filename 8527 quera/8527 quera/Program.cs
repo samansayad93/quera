@@ -25,15 +25,22 @@ namespace Quera
             {
                 arr[j] = int.Parse(str[j]);
             }
-            long max = Max(arr);
-            long i = 0;
             long sum = 0;
-            while (arr[i] != max)
+            for (long j = 1; j < n - 1; j++)
             {
-                sum += arr[i];
-                i++;
+                if (arr[j + 1] < arr[j - 1])
+                {
+                    if (arr[j] < arr[j + 1])
+                    {
+                        sum += arr[j + 1] - arr[j];
+                        continue;
+                    }
+                }
+                if (arr[j] < arr[j - 1])
+                {
+                    sum += arr[j - 1] - arr[j];
+                }
             }
-            sum = (max * i) - sum;
             Console.WriteLine(sum);
             return 0;
         }
