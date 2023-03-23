@@ -1,7 +1,6 @@
 #include<iostream>
 #include<string>
 #include<string.h>
-#include<bits/stdc++.h> 
 
 using namespace std;
 
@@ -14,7 +13,7 @@ int check1(string str){
                 count++;
             }
         }
-        if(count>=4){
+        if(count>=3){
             return 1;
         }
         count = 0;
@@ -43,9 +42,12 @@ int check2(string str){
 }
 
 int check3(string str){
-    string temp;
-    temp = str;
-    reverse(temp.begin(),temp.end());
+    string temp=str;
+    int j = 0;
+    for (int i = str.length()-1; i >= 0; i--){
+        temp[i] = str[j];
+        j++;
+    }
     if(temp == str){
         return 1;
     }
