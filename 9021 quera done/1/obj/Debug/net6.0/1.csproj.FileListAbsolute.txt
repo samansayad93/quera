@@ -1,0 +1,15 @@
+/Users/saman/Desktop/Quera/9021 quera/1/bin/Debug/net6.0/1
+/Users/saman/Desktop/Quera/9021 quera/1/bin/Debug/net6.0/1.deps.json
+/Users/saman/Desktop/Quera/9021 quera/1/bin/Debug/net6.0/1.runtimeconfig.json
+/Users/saman/Desktop/Quera/9021 quera/1/bin/Debug/net6.0/1.dll
+/Users/saman/Desktop/Quera/9021 quera/1/bin/Debug/net6.0/1.pdb
+/Users/saman/Desktop/Quera/9021 quera/1/obj/Debug/net6.0/1.csproj.AssemblyReference.cache
+/Users/saman/Desktop/Quera/9021 quera/1/obj/Debug/net6.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saman/Desktop/Quera/9021 quera/1/obj/Debug/net6.0/1.AssemblyInfoInputs.cache
+/Users/saman/Desktop/Quera/9021 quera/1/obj/Debug/net6.0/1.AssemblyInfo.cs
+/Users/saman/Desktop/Quera/9021 quera/1/obj/Debug/net6.0/1.csproj.CoreCompileInputs.cache
+/Users/saman/Desktop/Quera/9021 quera/1/obj/Debug/net6.0/1.dll
+/Users/saman/Desktop/Quera/9021 quera/1/obj/Debug/net6.0/refint/1.dll
+/Users/saman/Desktop/Quera/9021 quera/1/obj/Debug/net6.0/1.pdb
+/Users/saman/Desktop/Quera/9021 quera/1/obj/Debug/net6.0/1.genruntimeconfig.cache
+/Users/saman/Desktop/Quera/9021 quera/1/obj/Debug/net6.0/ref/1.dll
