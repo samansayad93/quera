@@ -1,0 +1,28 @@
+nav {
+    display: flex;
+	border: 5mm;
+}
+
+
+
+a {
+	width: auto;
+    background-color: hsl(220, 30%, 20%);
+    color: hsl(0, 0%, 90%);
+	align-self: auto;
+	border-radius: 0.2rem;
+}
+
+a:hover{
+	background-color: hsl(220, 30%, 25%);
+}
+
+img {
+    float: left;
+
+    width: 40px;
+}
+
+p {
+    font-size: 8mm;
+}
