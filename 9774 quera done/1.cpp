@@ -1,23 +1,18 @@
-#include<iostream>
-#include<cmath>
+#include <iostream>
+#include <math.h>
 
 using namespace std;
 
 int main(){
-    long long int a, b, c = 0;
-    cin >> a;
-    while(a > 0) {
-        c = c * 10 + a % 10;
-        a = a / 10;
-    }
-
-    while(c > 0){
-        b = c % 10;
-        c = c / 10;
-        cout << b << ": ";
-        for (long long int i = 0; i < b; i++) {
-            cout << b;
-        }       
-        cout << endl;
+    string s;
+    cin>>s;
+    for(int i=0;i<s.length();i++){
+        cout<<s[i]<<":";
+        int tmp = s[i]-48;
+        for(int j=0;j<tmp;j++){
+            if(j == 0) cout<<" ";
+            cout<<s[i];
+        }
+        cout<<endl;
     }
 }
