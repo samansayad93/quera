@@ -6,13 +6,19 @@ using namespace std;
 int check(string a,string b){
     int len = b.length();
     int lenght = a.length();
-    int flag = 0;
+    bool flag = 0;
     for(int i=0;i<lenght;i++){
-        for(int j=0;j<len;j++){
-            if(a[i] == b[j]){
-                flag = 1;
-                break;
-            }
+        if(b.find(a[i]) != string::npos){
+            flag = 1;
+        }
+        if(flag == 0){
+            return 1;
+        }
+        flag = 0;
+    }
+    for(int i=0;i<len;i++){
+        if(a.find(b[i]) != string::npos){
+            flag = 1;
         }
         if(flag == 0){
             return 1;
@@ -30,7 +36,7 @@ int main(){
     cin>>t;
     for(int i=0;i<n;i++){
         cin>>s[i];
-        if(check(s[i],t)){
+        if(check(s[i],t) == 1){
             cout<<"No"<<endl;
             continue;
         }
